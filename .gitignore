@@ -21,7 +21,6 @@ dist/
 
 # Maven
 target/
-dist/
 
 # JetBrains IDE
 .idea/
@@ -56,4 +55,5 @@ appium-service
 src/test/resources/screenshots
 logs
 
-# Ignore large files
+# Ignoring specific file
+src/test/resources/report.zip
