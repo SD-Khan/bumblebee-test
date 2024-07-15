@@ -1,0 +1,40 @@
+Click on Sign In button:
+Click and enter the Username:
+  UserName: testuser1@ycares.com
+Click and enter the password:
+  password: Testuser@123
+Click on Sign In button to Sign In:
+Verify you are on Home Page:
+Click on Appointments button:
+Click on ADD button:
+Verify you are on Find Care Page:
+Click on HELP ME FIND CARE button:
+Verify you are on Find Care Page with different Medical departments:
+Click on PCP button:
+Verify you are on PCP All Providers Page:
+Click on Search Button and add PCP Name:
+Enter PCP Name:
+  PCPName: Anna
+Click on first available Provider:
+Click on SCHEDULE APPOINTMENT button:
+Verify you are on Schedule Appointment Page with reasons to visit:
+Click on Illness visit reason:
+Verify you are on Schedule Appointment Page with appointment type:
+Click on Office Visit appointment type:
+Verify you are on Schedule Appointment Page with facility location option:
+Click on Facility location option:
+Click for Proper Appointment Time:
+Click on Scheduling the Appointment Button:
+Verify you are on Appointments Page:
+Click on Done Button:
+Scroll and Select the Appointment Created:
+Click on Cancel Appointment Button:
+Select the Reason for Cancellation:
+Cancellation reason is selected:
+Click on Cancel Appointment Button after Providing Reason:
+Verify Cancelled Screen:
+Click on OK Button to Navigate back to Home Screen:
+Verify Appointment is Cancelled:
+
+
+

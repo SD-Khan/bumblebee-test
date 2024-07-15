@@ -1,0 +1,6 @@
+<testdata>
+    <step name="Login with the correct credentials">
+        <username>a7b78fe2-0f34-41e1-acc7-8c0d42358892</username>
+        <password>password</password>
+    </step>
+</testdata>

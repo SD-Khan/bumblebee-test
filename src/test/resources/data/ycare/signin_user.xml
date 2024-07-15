@@ -1,0 +1,8 @@
+<testdata>
+    <step name="Click and enter the Username">
+        <UserName>testuser1@ycares.com</UserName>
+    </step>
+    <step name="Click and enter the password">
+        <password>Testuser@123</password>
+    </step>
+</testdata>
