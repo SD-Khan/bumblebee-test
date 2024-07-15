@@ -57,6 +57,3 @@ src/test/resources/screenshots
 logs
 
 # Ignore large files
-src/test/resources/apps/
-src/test/resources/apps/YCaresOrange.app/
-target
