@@ -1,0 +1,6 @@
+platform: android
+deviceName: Pixel3a
+platformVersion: "10"
+udId: Pixel3a
+deviceType: local
+avd: Pixel3a

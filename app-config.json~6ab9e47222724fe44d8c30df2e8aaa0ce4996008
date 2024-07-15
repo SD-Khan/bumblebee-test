@@ -1,0 +1,59 @@
+{
+  "plugins": [],
+  "dataFileType": "xml",
+  "management": {
+    "testrail": {
+      "baseUrl": "https://yml.testrail.io",
+      "planName": "plan-04-06-23",
+      "userName": "deepali.narayan@ymedialabs.com",
+      "password": "Testing12!@",
+      "projectName":"YCares-Automation",
+      "suiteName": "automation",
+      "closePlan": false
+    }
+  },
+  "device": {
+    "features": [
+      "signin_user.feature"
+    ],
+    "devices": [
+      {
+        "name": "iPhone14",
+        "platform": "iOS",
+        "app": "yCaresOrange.app",
+        "bundleId": "com.yml.ycaresOrangeDev"
+      }
+    ]
+  },
+  "rest": {
+    "features": [
+      "mock_api.feature"
+    ],
+    "baseUrl": "https://64e47b90c555638029134aa2.mockapi.io/ymatic"
+  },
+  "browser": {
+    "features": [
+      "codeandtheory.feature"
+    ],
+    "browsers": [
+
+      {
+        "name": "firefox",
+        "url": "https://www.codeandtheory.com/",
+        "threads": 1
+      },
+      {
+        "name": "chrome",
+        "url": "https://www.codeandtheory.com/",
+        "threads": 1
+      },
+      {
+        "name": "edge",
+        "url": "https://www.codeandtheory.com/",
+        "threads": 1
+      }
+
+    ]
+  }
+
+}

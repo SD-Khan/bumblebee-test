@@ -1,0 +1,17 @@
+{
+  "plugins": [],
+  "dataFileType": "xml",
+  "browser": {
+    "features": [
+      "codeandtheory.feature"
+    ],
+    "browsers": [
+      {
+        "name": "chrome",
+        "url": "https://www.codeandtheory.com/",
+        "threads": 1
+      }
+    ]
+  }
+}
+

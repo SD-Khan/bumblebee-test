@@ -1,0 +1,19 @@
+<testdata>
+    <step name="Create a new user">
+        <name>saad</name>
+        <lastName>khan</lastName>
+        <address>address for user001</address>
+        <phone>123456</phone>
+    </step>
+    <step name="Update the user information">
+        <id>5</id>
+        <address>changed address for user001</address>
+        <phone>123678</phone>
+    </step>
+    <step name="Delete the user">
+        <id>6</id>
+    </step>
+    <step name="Validate the user is deleted">
+        <name>name 3</name>
+    </step>
+</testdata>

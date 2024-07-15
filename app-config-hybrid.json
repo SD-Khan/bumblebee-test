@@ -1,0 +1,23 @@
+{
+  "plugins": [],
+  "dataFileType": "xml",
+  "runAs": "sequential",
+  "hybrid": {
+    "features": [
+      "mock_api.feature",
+      "codeandtheory.feature"
+    ],
+    "rest": {
+      "baseUrl": "https://64e47b90c555638029134aa2.mockapi.io/ymatic"
+    },
+    "browser": {
+      "browsers": [
+        {
+          "name": "firefox",
+          "url": "https://www.codeandtheory.com/",
+          "threads": 1
+        }
+      ]
+    }
+  }
+}

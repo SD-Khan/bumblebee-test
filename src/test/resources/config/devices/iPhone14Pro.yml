@@ -1,0 +1,6 @@
+platform: iOS
+deviceName: iPhone14Pro
+platformVersion: "16.0"
+udid: 7F2C6BD8-0F68-4538-AE30-44CB30730729
+deviceType: local
+automationName: XCUITest

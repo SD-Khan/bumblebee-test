@@ -1,0 +1,21 @@
+{
+  "plugins": [],
+  "dataFileType": "xml",
+  "browser": {
+    "features": [
+      "yml_menu.feature"
+    ],
+    "browsers": [
+      {
+        "name": "firefox",
+        "url": "https://yml.co/",
+        "threads": 1
+      },
+      {
+        "name": "safari",
+        "url": "https://yml.co/",
+        "threads": 1
+      }
+    ]
+  }
+}
